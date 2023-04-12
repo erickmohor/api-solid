@@ -26,7 +26,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/erickmohor/api-solid
 ```
 
 Go to the project directory
